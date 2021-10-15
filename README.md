@@ -7,7 +7,6 @@ Hello! I'm Abram Satria (aka. ProjectRed) I Love coding and yes im a junior code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/skaryet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="skaryet" height="30" width="40" /></a>
 
 
 <a href="https://discord.gg/8RqSUkySa9">
