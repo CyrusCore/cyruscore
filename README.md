@@ -9,7 +9,6 @@ Hello! I'm Abram Satria (aka. ProjectRed) I Love coding and yes im a junior code
 <p align="left">
 <a href="https://dev.to/skaryet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="skaryet" height="30" width="40" /></a>
 
-<img src="https://cdn.discordapp.com/attachments/811143476522909718/820279617717272596/standard_2.gif" align="middle"/>
 
 <a href="https://discord.gg/8RqSUkySa9">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
