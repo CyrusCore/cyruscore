@@ -37,7 +37,7 @@ Hello! I'm Abram Satria (aka. ProjectRed) I Love coding and yes im a junior code
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyrusCore&show_icons=true&locale=en&layout=compact" alt="ProjectRed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CyrusCore&show_icons=true&locale=en" alt="ProjectRed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CyrusCore&show_icons=true&locale=en" alt="CyrusCore" /></p>
 
 <br>
 
