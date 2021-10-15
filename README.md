@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Abram Satria
 #### I Love coding
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: C++ / PYTHON / JS / HTML / CSS
 
 - 🌱 I’m currently learning Javascript 
 - ⚡ Fun fact: i'm a poor  
