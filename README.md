@@ -1,5 +1,3 @@
-<p align="center"> <a href="github.com/CyrusCore"><img align="center" src="https://cardivo.vercel.app/api?name=Abram Satria&description=Hi,I am Abram Satria.I am the creater of WhiteFox.  nice to meet  you&image=https://avatars.githubusercontent.com/u/81394957?v=4&backgroundColor=%23ecf0f1&instagram=aero.productions_&github=CyrusCore&pattern=ticTacToe&colorPattern=%23eaeaea"/></a>
-
 ## 🌐Socials
 ![Discord](https://discord.c99.nl/widget/theme-3/883133692560670752.png)
 
