@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyruscore&show_icons=true&locale=en&layout=compact" alt="cyruscore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyruscore&show_icons=true&locale=en" alt="cyruscore" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyruscore&" alt="cyruscore" /></p>
