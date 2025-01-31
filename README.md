@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abramsatria@kappurumedia.my.id**
 
-- ⚡ Fun fact **I Think I Am Handsome**
+- ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
