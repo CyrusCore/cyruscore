@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bramszs.my.id](https://bramszs.my.id)
 
-- 📫 How to reach me **abramsatria@kappurumedia.my.id**
+- 📫 How to reach me **mail@bramszs.my.id**
 
 - ⚡ Fun fact **Nothing**
 
