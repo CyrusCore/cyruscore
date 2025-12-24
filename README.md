@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abram Satria .W</h1>
 <h3 align="center">An Music Composer,Designer, Lightning Engineer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyruscore" alt="cyruscore" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfolio.kappurumedia.my.id](https://portfolio.kappurumedia.my.id)
 
 - 📫 How to reach me **abramsatria@kappurumedia.my.id**
