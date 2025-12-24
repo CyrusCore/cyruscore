@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abram Satria .W</h1>
 <h3 align="center">An Music Composer,Designer, Lightning Engineer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio.kappurumedia.my.id](https://portfolio.kappurumedia.my.id)
+- 👨‍💻 All of my projects are available at [https://bramszs.my.id](https://bramszs.my.id)
 
 - 📫 How to reach me **abramsatria@kappurumedia.my.id**
 
